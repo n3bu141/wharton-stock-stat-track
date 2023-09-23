@@ -1,0 +1,15 @@
+Country,"Market, or Index",Suffix,Delay,Data Provider,Approved Stock List Name
+Brazil,Sao Paolo Stock Exchange (BOVESPA),.SA,15 min,ICE Data Services,B3 S.A.
+Mexico,Mexico Stock Exchange (BMV),.MX,20 min,ICE Data Services,BMV
+India,Bombay Stock Exchange,.BO,15 min,ICE Data Services,BSE LTD
+Europe,Euronext,.AS,15 min,ICE Data Services,Euronext
+Germany,Frankfurt Stock Exchange,.F,15 min,ICE Data Services,Frankfurt Stock Exchange
+Hong Kong,Hong Kong Stock Exchange (HKEX)***,.HK,15 min,ICE Data Services,Hong Kong Exchanges And Clearing Ltd
+South Korea,Korea Stock Exchange,.KS,20 min,ICE Data Services,Korea Exchange
+United Kingdom,London Stock Exchange,.L,20 min,ICE Data Services,London Stock Exchange
+United States of America,Nasdaq Stock Exchange,N/A,Real-time,ICE Data Services,Nasdaq
+United States of America,New York Stock Exchange,N/A,Real-time,ICE Data Services,"New York Stock Exchange, Inc."
+China,Shanghai Stock Exchange,.SS,30 min,ICE Data Services,Shanghai Stock Exchange
+China,Shenzhen Stock Exchange,.SZ,30 min,ICE Data Services,Shenzhen Stock Exchange
+Switzerland,Swiss Exchange (SIX),.SW,30 min,ICE Data Services,SIX Swiss Exchange
+Canada,Toronto Stock Exchange (TSX),.TO,Real-time,ICE Data Services,Toronto Stock Exchange
